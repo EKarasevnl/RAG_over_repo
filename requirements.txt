@@ -1,0 +1,11 @@
+gitpython==3.1.40
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+tqdm==4.66.1
+numpy==1.26.4
+transformers==4.36.2
+torch==2.5.1
+packaging==23.2
+fsspec==2024.9.0
+huggingface-hub==0.25.2
+rank_bm25
